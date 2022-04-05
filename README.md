@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on ... Everything
-- 🌱 I’m currently learning ...Node.js, Express.js, and intergrating middleware
+- 🌱 I’m currently learning ...Node.js, Express.js, and integrating middleware
 - 👯 I’m looking to collaborate on ... Anything!
 - 🤔 I’m looking for help with ... Middleware
 - 💬 Ask me about ... Finance/ credit Projects you might have
