@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on ... Everything
-- 🌱 I’m currently learning ...Node.js, Express.js, and integrating middleware
+- 🌱 I’m currently learning ...Command Line Generating Applications 
 - 👯 I’m looking to collaborate on ... Anything!
-- 🤔 I’m looking for help with ... Middleware
+- 🤔 I’m looking for help with ... best study practices
 - 💬 Ask me about ... Finance/ credit Projects you might have
 - 📫 How to reach me: ... gavinmumpower96@gmail.com
 - ⚡ Fun fact: ... I'm a jack of all trades type person, anything you throw my way I will have some knowledge in it.
